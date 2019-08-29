@@ -2,6 +2,7 @@
 AllMyShortCrawlerScripts
 
 ## Dog Crawler
+Crawls https://www.akc.org/ for stats about dogs
 ### Requirements
 * pandas
 * Bs4
