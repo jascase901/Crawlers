@@ -1,0 +1,276 @@
+,Energy Level,Grooming Frequency,Shedding,Temperament/Demeanor,Trainability,breed
+0,60.0,60.0,60.0,100.0,80.0,Affenpinscher
+1,80.0,80.0,20.0,20.0,20.0,Afghan Hound
+2,60.0,60.0,40.0,80.0,100.0,Airedale Terrier
+3,80.0,80.0,60.0,60.0,100.0,Akita
+4,80.0,60.0,60.0,80.0,40.0,Alaskan Malamute
+5,80.0,20.0,40.0,60.0,60.0,American English Coonhound
+6,80.0,40.0,60.0,100.0,100.0,American Eskimo Dog
+7,80.0,20.0,60.0,80.0,40.0,American Foxhound
+8,,,,,,American Hairless Terrier
+9,80.0,40.0,60.0,60.0,100.0,American Leopard Hound
+10,60.0,20.0,40.0,60.0,60.0,American Staffordshire Terrier
+11,60.0,60.0,20.0,80.0,100.0,American Water Spaniel
+12,60.0,40.0,60.0,40.0,40.0,Anatolian Shepherd Dog
+13,100.0,40.0,80.0,40.0,20.0,Appenzeller Sennenhund
+14,100.0,20.0,80.0,40.0,20.0,Australian Cattle Dog
+15,80.0,40.0,80.0,60.0,100.0,Australian Kelpie
+16,80.0,40.0,60.0,60.0,100.0,Australian Shepherd
+17,80.0,40.0,40.0,60.0,80.0,Australian Stumpy Tail Cattle Dog
+18,80.0,40.0,20.0,80.0,60.0,Australian Terrier
+19,60.0,40.0,40.0,80.0,40.0,Azawakh
+20,60.0,40.0,20.0,80.0,60.0,Barbet
+21,80.0,20.0,40.0,40.0,40.0,Basenji
+22,60.0,40.0,60.0,100.0,20.0,Basset Fauve de Bretagne
+23,20.0,60.0,40.0,80.0,40.0,Basset Hound
+24,60.0,40.0,80.0,40.0,60.0,Bavarian Mountain Scent Hound
+25,80.0,60.0,60.0,80.0,60.0,Beagle
+26,60.0,80.0,60.0,100.0,40.0,Bearded Collie
+27,100.0,60.0,100.0,40.0,80.0,Beauceron
+28,80.0,60.0,,60.0,60.0,Bedlington Terrier
+29,80.0,40.0,80.0,40.0,80.0,Belgian Laekenois
+30,80.0,40.0,60.0,40.0,80.0,Belgian Malinois
+31,80.0,60.0,60.0,40.0,80.0,Belgian Sheepdog
+32,80.0,60.0,60.0,40.0,80.0,Belgian Tervuren
+33,40.0,20.0,20.0,40.0,60.0,Bergamasco Sheepdog
+34,100.0,20.0,60.0,60.0,80.0,Berger Picard
+35,80.0,60.0,100.0,40.0,80.0,Bernese Mountain Dog
+36,60.0,100.0,20.0,100.0,60.0,Bichon Frise
+37,40.0,60.0,,100.0,100.0,Biewer Terrier
+38,60.0,40.0,60.0,80.0,40.0,Black and Tan Coonhound
+39,80.0,80.0,60.0,40.0,80.0,Black Russian Terrier
+40,60.0,40.0,60.0,60.0,40.0,Bloodhound
+41,80.0,40.0,60.0,80.0,60.0,Bluetick Coonhound
+42,40.0,20.0,40.0,40.0,60.0,Boerboel
+43,60.0,20.0,40.0,60.0,80.0,Bohemian Shepherd
+44,40.0,60.0,20.0,80.0,60.0,Bolognese
+45,100.0,60.0,60.0,40.0,100.0,Border Collie
+46,60.0,40.0,40.0,80.0,80.0,Border Terrier
+47,80.0,40.0,60.0,60.0,40.0,Borzoi
+48,60.0,40.0,20.0,100.0,100.0,Boston Terrier
+49,80.0,80.0,60.0,60.0,60.0,Bouvier des Flandres
+50,80.0,40.0,40.0,100.0,80.0,Boxer
+51,60.0,60.0,60.0,60.0,100.0,Boykin Spaniel
+52,80.0,20.0,40.0,60.0,80.0,Bracco Italiano
+53,60.0,20.0,,60.0,100.0,Braque du Bourbonnais
+54,100.0,20.0,60.0,,,Braque Francais Pyrenean
+55,60.0,80.0,20.0,40.0,40.0,Briard
+56,100.0,60.0,60.0,80.0,100.0,Brittany
+57,40.0,20.0,60.0,,,Broholmer
+58,60.0,60.0,60.0,80.0,60.0,Brussels Griffon
+59,80.0,40.0,60.0,80.0,40.0,Bull Terrier
+60,60.0,60.0,80.0,80.0,60.0,Bulldog
+61,80.0,20.0,60.0,60.0,60.0,Bullmastiff
+62,60.0,40.0,40.0,80.0,60.0,Cairn Terrier
+63,60.0,40.0,100.0,40.0,40.0,Canaan Dog
+64,80.0,20.0,40.0,60.0,60.0,Cane Corso
+65,80.0,40.0,60.0,60.0,60.0,Cardigan Welsh Corgi
+66,60.0,20.0,60.0,60.0,100.0,Carolina Dog
+67,100.0,,,40.0,40.0,Catahoula Leopard Dog
+68,40.0,60.0,80.0,20.0,40.0,Caucasian Shepherd Dog
+69,40.0,40.0,40.0,80.0,100.0,Cavalier King Charles Spaniel
+70,40.0,20.0,60.0,20.0,40.0,Central Asian Shepherd Dog
+71,60.0,40.0,40.0,40.0,60.0,Cesky Terrier
+72,80.0,60.0,80.0,40.0,60.0,Chesapeake Bay Retriever
+73,60.0,20.0,40.0,60.0,40.0,Chihuahua
+74,60.0,20.0,20.0,80.0,60.0,Chinese Crested
+75,60.0,20.0,80.0,40.0,20.0,Chinese Shar-Pei
+76,80.0,40.0,60.0,80.0,100.0,Chinook
+77,60.0,60.0,60.0,40.0,20.0,Chow Chow
+78,60.0,20.0,20.0,60.0,60.0,Cirneco dell’Etna
+79,60.0,40.0,80.0,40.0,60.0,Clumber Spaniel
+80,60.0,80.0,40.0,100.0,100.0,Cocker Spaniel
+81,60.0,60.0,60.0,80.0,80.0,Collie
+82,60.0,80.0,40.0,100.0,80.0,Coton de Tulear
+83,100.0,20.0,40.0,40.0,100.0,Croatian Sheepdog
+84,80.0,20.0,40.0,40.0,40.0,Curly-Coated Retriever
+85,100.0,40.0,100.0,20.0,20.0,Czechoslovakian Vlcak
+86,60.0,40.0,40.0,60.0,60.0,Dachshund
+87,80.0,40.0,100.0,60.0,60.0,Dalmatian
+88,60.0,80.0,20.0,40.0,40.0,Dandie Dinmont Terrier
+89,80.0,20.0,40.0,,,Danish-Swedish Farmdog
+90,60.0,40.0,,,,Deutscher Wachtelhund
+91,100.0,20.0,80.0,60.0,100.0,Doberman Pinscher
+92,100.0,20.0,20.0,,,Dogo Argentino
+93,60.0,20.0,80.0,60.0,60.0,Dogue de Bordeaux
+94,80.0,40.0,80.0,40.0,60.0,Drentsche Patrijshond
+95,60.0,20.0,40.0,60.0,20.0,Drever
+96,100.0,40.0,60.0,60.0,60.0,Dutch Shepherd
+97,60.0,60.0,40.0,80.0,100.0,English Cocker Spaniel
+98,80.0,20.0,80.0,80.0,60.0,English Foxhound
+99,80.0,60.0,80.0,80.0,80.0,English Setter
+100,60.0,40.0,40.0,80.0,100.0,English Springer Spaniel
+101,60.0,60.0,60.0,60.0,40.0,English Toy Spaniel
+102,100.0,20.0,20.0,40.0,40.0,Entlebucher Mountain Dog
+103,40.0,40.0,60.0,,,Estrela Mountain Dog
+104,60.0,60.0,60.0,40.0,60.0,Eurasier
+105,60.0,40.0,80.0,40.0,60.0,Field Spaniel
+106,60.0,40.0,60.0,40.0,100.0,Finnish Lapphund
+107,100.0,40.0,60.0,80.0,60.0,Finnish Spitz
+108,100.0,40.0,80.0,80.0,100.0,Flat-Coated Retriever
+109,40.0,20.0,80.0,60.0,60.0,French Bulldog
+110,,,,,,French Spaniel
+111,80.0,20.0,,80.0,100.0,German Longhaired Pointer
+112,100.0,20.0,40.0,60.0,60.0,German Pinscher
+113,60.0,40.0,80.0,60.0,100.0,German Shepherd Dog
+114,100.0,40.0,80.0,80.0,100.0,German Shorthaired Pointer
+115,60.0,60.0,60.0,40.0,100.0,German Spitz
+116,100.0,40.0,80.0,40.0,100.0,German Wirehaired Pointer
+117,100.0,80.0,,60.0,80.0,Giant Schnauzer
+118,60.0,60.0,40.0,60.0,40.0,Glen of Imaal Terrier
+119,100.0,40.0,60.0,80.0,100.0,Golden Retriever
+120,100.0,40.0,60.0,40.0,40.0,Gordon Setter
+121,100.0,40.0,60.0,80.0,40.0,Grand Basset Griffon Vendéen
+122,80.0,20.0,60.0,60.0,60.0,Great Dane
+123,100.0,40.0,60.0,40.0,40.0,Great Pyrenees
+124,80.0,40.0,60.0,60.0,60.0,Greater Swiss Mountain Dog
+125,80.0,20.0,40.0,80.0,40.0,Greyhound
+126,80.0,20.0,20.0,80.0,60.0,Hamiltonstovare
+127,60.0,20.0,20.0,40.0,40.0,Hanoverian Scenthound
+128,100.0,40.0,40.0,80.0,80.0,Harrier
+129,60.0,60.0,40.0,100.0,80.0,Havanese
+130,80.0,40.0,60.0,,,Hokkaido
+131,60.0,20.0,60.0,40.0,20.0,Hovawart
+132,100.0,20.0,40.0,40.0,40.0,Ibizan Hound
+133,80.0,40.0,60.0,80.0,100.0,Icelandic Sheepdog
+134,100.0,40.0,,80.0,80.0,Irish Red and White Setter
+135,100.0,60.0,60.0,100.0,60.0,Irish Setter
+136,60.0,20.0,,60.0,60.0,Irish Terrier
+137,100.0,40.0,60.0,40.0,80.0,Irish Water Spaniel
+138,60.0,40.0,60.0,60.0,40.0,Irish Wolfhound
+139,60.0,20.0,60.0,20.0,40.0,Italian Greyhound
+140,,,,,,Jagdterrier
+141,60.0,40.0,60.0,40.0,40.0,Japanese Chin
+142,60.0,40.0,40.0,80.0,80.0,Japanese Spitz
+143,80.0,40.0,60.0,40.0,40.0,Jindo
+144,80.0,20.0,60.0,40.0,40.0,Kai Ken
+145,40.0,20.0,60.0,,,Karelian Bear Dog
+146,60.0,60.0,60.0,80.0,80.0,Keeshond
+147,60.0,60.0,,60.0,20.0,Kerry Blue Terrier
+148,80.0,20.0,60.0,40.0,40.0,Kishu Ken
+149,60.0,100.0,60.0,40.0,40.0,Komondor
+150,60.0,60.0,80.0,40.0,60.0,Kromfohrlander
+151,60.0,40.0,80.0,40.0,40.0,Kuvasz
+152,100.0,40.0,80.0,100.0,100.0,Labrador Retriever
+153,60.0,20.0,20.0,60.0,100.0,Lagotto Romagnolo
+154,60.0,40.0,20.0,60.0,60.0,Lakeland Terrier
+155,80.0,20.0,60.0,80.0,80.0,Lancashire Heeler
+156,60.0,40.0,60.0,40.0,100.0,Lapponian Herder
+157,60.0,80.0,80.0,80.0,100.0,Leonberger
+158,60.0,60.0,20.0,40.0,40.0,Lhasa Apso
+159,60.0,40.0,40.0,100.0,60.0,Löwchen
+160,60.0,80.0,20.0,100.0,60.0,Maltese
+161,60.0,40.0,40.0,60.0,80.0,Manchester Terrier (Standard)
+162,60.0,40.0,40.0,60.0,80.0,Manchester Terrier (Toy)
+163,60.0,20.0,40.0,60.0,60.0,Mastiff
+164,80.0,80.0,100.0,80.0,100.0,Miniature American Shepherd
+165,80.0,20.0,40.0,60.0,40.0,Miniature Bull Terrier
+166,60.0,20.0,20.0,60.0,40.0,Miniature Pinscher
+167,60.0,100.0,20.0,60.0,100.0,Miniature Schnauzer
+168,100.0,20.0,60.0,40.0,20.0,Mountain Cur
+169,100.0,20.0,40.0,40.0,100.0,Mudi
+170,60.0,40.0,60.0,20.0,20.0,Neapolitan Mastiff
+171,60.0,40.0,60.0,40.0,100.0,Nederlandse Kooikerhondje
+172,60.0,40.0,60.0,80.0,80.0,Newfoundland
+173,60.0,40.0,60.0,80.0,60.0,Norfolk Terrier
+174,80.0,40.0,40.0,,,Norrbottenspets
+175,80.0,40.0,60.0,80.0,80.0,Norwegian Buhund
+176,60.0,40.0,60.0,80.0,60.0,Norwegian Elkhound
+177,80.0,40.0,60.0,40.0,60.0,Norwegian Lundehund
+178,80.0,40.0,60.0,80.0,60.0,Norwich Terrier
+179,100.0,40.0,60.0,80.0,80.0,Nova Scotia Duck Tolling Retriever
+180,60.0,60.0,60.0,60.0,40.0,Old English Sheepdog
+181,60.0,40.0,60.0,60.0,20.0,Otterhound
+182,60.0,40.0,60.0,100.0,100.0,Papillon
+183,100.0,40.0,40.0,80.0,60.0,Parson Russell Terrier
+184,40.0,60.0,60.0,40.0,20.0,Pekingese
+185,80.0,40.0,80.0,100.0,60.0,Pembroke Welsh Corgi
+186,40.0,20.0,60.0,,,Perro de Presa Canario
+187,80.0,20.0,80.0,40.0,60.0,Peruvian Inca Orchid
+188,80.0,40.0,40.0,80.0,40.0,Petit Basset Griffon Vendéen
+189,80.0,40.0,60.0,40.0,40.0,Pharaoh Hound
+190,80.0,20.0,40.0,60.0,40.0,Plott Hound
+191,80.0,40.0,40.0,60.0,60.0,Pointer
+192,80.0,80.0,60.0,20.0,20.0,Polish Lowland Sheepdog
+193,60.0,60.0,60.0,60.0,60.0,Pomeranian
+194,,,,,,Poodle (Miniature)
+195,60.0,100.0,20.0,80.0,100.0,Poodle (Standard)
+196,60.0,100.0,20.0,80.0,100.0,Poodle (Toy)
+197,80.0,20.0,,60.0,,Porcelaine
+198,80.0,40.0,80.0,40.0,60.0,Portuguese Podengo
+199,80.0,40.0,60.0,80.0,60.0,Portuguese Podengo Pequeno
+200,80.0,20.0,40.0,80.0,100.0,Portuguese Pointer
+201,80.0,40.0,40.0,,,Portuguese Sheepdog
+202,80.0,80.0,60.0,60.0,80.0,Portuguese Water Dog
+203,60.0,20.0,60.0,,,Pudelpointer
+204,60.0,40.0,80.0,80.0,60.0,Pug
+205,60.0,100.0,20.0,40.0,40.0,Puli
+206,80.0,20.0,20.0,60.0,80.0,Pumi
+207,40.0,60.0,60.0,,,Pyrenean Mastiff
+208,80.0,40.0,60.0,40.0,60.0,Pyrenean Shepherd
+209,40.0,40.0,60.0,,,Rafeiro do Alentejo
+210,60.0,40.0,60.0,80.0,80.0,Rat Terrier
+211,60.0,40.0,60.0,80.0,80.0,Redbone Coonhound
+212,60.0,40.0,60.0,60.0,40.0,Rhodesian Ridgeback
+213,60.0,40.0,40.0,20.0,40.0,Romanian Mioritic Shepherd Dog
+214,60.0,40.0,60.0,40.0,60.0,Rottweiler
+215,100.0,40.0,40.0,80.0,60.0,Russell Terrier
+216,60.0,40.0,20.0,80.0,60.0,Russian Toy
+217,60.0,60.0,20.0,80.0,60.0,Russian Tsvetnaya Bolonka
+218,60.0,40.0,60.0,80.0,60.0,Saint Bernard
+219,80.0,20.0,40.0,40.0,40.0,Saluki
+220,80.0,60.0,60.0,80.0,40.0,Samoyed
+221,60.0,40.0,60.0,60.0,80.0,Schapendoes
+222,80.0,40.0,60.0,60.0,40.0,Schipperke
+223,60.0,20.0,60.0,60.0,40.0,Scottish Deerhound
+224,60.0,60.0,40.0,60.0,40.0,Scottish Terrier
+225,60.0,60.0,60.0,60.0,40.0,Sealyham Terrier
+226,,40.0,60.0,,100.0,Segugio Italiano
+227,60.0,60.0,60.0,40.0,100.0,Shetland Sheepdog
+228,60.0,40.0,60.0,40.0,40.0,Shiba Inu
+229,60.0,80.0,20.0,80.0,60.0,Shih Tzu
+230,60.0,40.0,,,,Shikoku
+231,80.0,40.0,60.0,80.0,40.0,Siberian Husky
+232,60.0,60.0,40.0,60.0,60.0,Silky Terrier
+233,60.0,80.0,60.0,40.0,40.0,Skye Terrier
+234,,,,,,Sloughi
+235,80.0,20.0,40.0,100.0,40.0,Slovakian Wirehaired Pointer
+236,40.0,40.0,80.0,,,Slovensky Cuvac
+237,60.0,20.0,60.0,,,Slovensky Kopov
+238,100.0,20.0,60.0,80.0,60.0,Small Munsterlander Pointer
+239,80.0,40.0,40.0,80.0,60.0,Smooth Fox Terrier
+240,80.0,60.0,20.0,60.0,40.0,Soft Coated Wheaten Terrier
+241,40.0,,60.0,,,Spanish Mastiff
+242,80.0,100.0,20.0,40.0,100.0,Spanish Water Dog
+243,80.0,40.0,,60.0,60.0,Spinone Italiano
+244,80.0,20.0,60.0,60.0,80.0,Stabyhoun
+245,80.0,40.0,40.0,80.0,20.0,Staffordshire Bull Terrier
+246,60.0,60.0,20.0,80.0,40.0,Standard Schnauzer
+247,60.0,60.0,60.0,40.0,40.0,Sussex Spaniel
+248,60.0,40.0,60.0,60.0,20.0,Swedish Lapphund
+249,100.0,20.0,60.0,80.0,100.0,Swedish Vallhund
+250,100.0,40.0,60.0,40.0,80.0,Taiwan Dog
+251,80.0,40.0,60.0,80.0,100.0,Teddy Roosevelt Terrier
+252,80.0,20.0,60.0,40.0,40.0,Thai Ridgeback
+253,60.0,60.0,60.0,60.0,40.0,Tibetan Mastiff
+254,40.0,40.0,60.0,60.0,60.0,Tibetan Spaniel
+255,80.0,60.0,60.0,40.0,40.0,Tibetan Terrier
+256,,,,60.0,80.0,Tornjak
+257,40.0,20.0,40.0,40.0,60.0,Tosa
+258,80.0,40.0,40.0,80.0,100.0,Toy Fox Terrier
+259,100.0,40.0,,,20.0,Transylvanian Hound
+260,60.0,40.0,40.0,,,Treeing Tennessee Brindle
+261,60.0,20.0,60.0,80.0,40.0,Treeing Walker Coonhound
+262,80.0,40.0,60.0,80.0,100.0,Vizsla
+263,100.0,40.0,60.0,80.0,100.0,Weimaraner
+264,80.0,40.0,,80.0,80.0,Welsh Springer Spaniel
+265,80.0,60.0,40.0,100.0,60.0,Welsh Terrier
+266,60.0,80.0,60.0,80.0,60.0,West Highland White Terrier
+267,60.0,20.0,40.0,40.0,40.0,Whippet
+268,60.0,40.0,20.0,60.0,60.0,Wire Fox Terrier
+269,100.0,40.0,60.0,60.0,60.0,Wirehaired Pointing Griffon
+270,80.0,20.0,60.0,60.0,60.0,Wirehaired Vizsla
+271,80.0,20.0,60.0,60.0,40.0,Working Kelpie
+272,80.0,20.0,20.0,60.0,60.0,Xoloitzcuintli
+273,80.0,40.0,60.0,40.0,20.0,Yakutian Laika
+274,60.0,100.0,20.0,80.0,20.0,Yorkshire Terrier
