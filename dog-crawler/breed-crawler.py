@@ -30,7 +30,6 @@ url_d  =  dict([(breed.findAll(text=True)[0],breed['value']) for breed in option
 records = []
 for breed in url_d.keys():
     #too may request at once make some websites sad
-    i = i + 1 
     #First element in list is the select a breed label
     if "Select A Breed" in breed:
         continue
